@@ -152,6 +152,19 @@ assign [class="spotify"] 3
 assign [class="blockify"] 3
 new_window pixel 1
 new_float normal
+
+# color defines for zenburn styled i3
+set $bg     #2c2c2e
+set $fg     #9f9f9f
+set $hi     #efef8f
+set $ac     #008080
+set $tx     #040404
+set $ia     #8f8f8f
+set $be     #8faf9f 
+set $yw     #ccdc90
+set $gn     #88b090
+set $rd     #e89393
+
  client.focused          #556064 #556064 #80FFF9 #FDF6E3
  client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
  client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
